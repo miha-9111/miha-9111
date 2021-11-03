@@ -1,7 +1,5 @@
-<h1>Hey! Nice to see you.</h1> 
-
+<h1>Hey! Nice to see you.</h1>
 My name is Mikhail and i'm a frontend developer.
-
 <h1>Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
@@ -18,3 +16,5 @@ My name is Mikhail and i'm a frontend developer.
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=black)
 
 My hobbies: Web Development, Graphic Design, HardWare, Anime
+
+<img src="https://c.tenor.com/i03O3kZdJkMAAAAC/chuunibyou-dekomori.gif" width="500"/>
