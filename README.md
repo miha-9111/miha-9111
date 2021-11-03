@@ -17,4 +17,4 @@ My name is Mikhail and i'm a frontend developer.
 ![](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&labelColor=black&logoWidth=15)
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=black)
 
-My hobbies: Web Development, Graphic Design, HardWare
+My hobbies: Web Development, Graphic Design, HardWare, Anime
