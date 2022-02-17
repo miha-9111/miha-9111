@@ -13,5 +13,4 @@ My name is Mikhail and i'm a frontend developer.
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=ffffff&color=1c78c0)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=ffffff&color=bc4420)
 ![](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
-
 ![](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&labelColor=black&logoWidth=15)
