@@ -7,7 +7,6 @@ My name is Mikhail and i'm a frontend developer.
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/-Angular-1158B3?style=flat-square&logo=angular&logoColor=red)
 ![](https://img.shields.io/badge/-Material-3c226a?style=flat-square&logo=angular&ogoColor=black)
 ![](https://img.shields.io/badge/-NgRx-BA2BD2?style=flat-square&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white")
